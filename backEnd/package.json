@@ -1,0 +1,19 @@
+{
+  "name": "cine-login",
+  "version": "1.0.0",
+  "description": "API de cadastro de usuarios do cine expressao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cadastro",
+    "usuarios",
+    "login"
+  ],
+  "author": "Samuel Estrella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
